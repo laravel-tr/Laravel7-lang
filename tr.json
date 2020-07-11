@@ -22,6 +22,7 @@
     "Page Expired": "Sayfa zaman aşımına uğradı",
     "Page Not Found": "Sayfa Bulunamadı",
     "Not Found": "Sayfa Bulunamadı",
+    "CSRF token mismatch.":"CRSF tokeni uyuşmuyor.",
     "Server Error": "Sunucu hatası",
     "Password": "Parola",
     "Please click the button below to verify your email address.": "Lütfen e-posta adresinizi doğrulamak için aşağıdaki düğmeyi tıklayın.",
